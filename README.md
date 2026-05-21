@@ -1,3 +1,5 @@
+<p align="center"><img src="./arshawnarbabi_readme_banner.gif" alt="arshawn banner" width="100%" /></p>
+
 ## hi, i'm arshawn
 
 I build AI systems. Some to solve real problems, some just because they should exist.
