@@ -1,6 +1,6 @@
 ## hi, i'm arshawn
 
-I build AI systems — some to solve real problems, some just because they should exist.
+I build AI systems, some to solve real problems, some just because they should exist.
 
 I've never taken a CS class. Everything here was built through obsession, AI tools, and a design philosophy borrowed from Apple: design isn't decoration, it's function.
 
