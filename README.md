@@ -10,8 +10,8 @@ Incoming **Computer Engineering @ UC Santa Cruz** · open to internships & freel
 
 ### shipped
 
-**[BidPilot](https://trybidpilot.com)** — pre-launch  
-Pre-qualification SaaS for residential painting contractors. I co-founded a painting company, watched contractors waste thousands driving to estimates that didn't close, and started building the fix. Homeowners answer budget and scope questions before booking an estimate — only serious leads reach the contractor. Currently validating with real contractors. Waitlist open at trybidpilot.com.
+**[BidPilot](https://trybidpilot.com)** · pre-launch  
+Pre-qualification SaaS for residential painting contractors. I co-founded a painting company, watched contractors waste thousands driving to estimates that didn't close, and started building the fix. Homeowners answer budget and scope questions before booking. Only serious leads reach the contractor. Currently validating with real contractors. Waitlist open at trybidpilot.com.
 
 **[Cogni](https://github.com/arshawnarbabi/Cogni)** &nbsp;·&nbsp; [trycogni.vercel.app](https://trycogni.vercel.app)  
 Self-hosted AI study system. Six agents handle everything from syllabus parsing to daily plan generation. FSRS spaced repetition at two levels, a Claude-powered tutor with RAG and persistent wiki memory, Google Calendar integration. Built because no study tool was actually intelligent.
