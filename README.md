@@ -10,14 +10,14 @@ Incoming **Computer Engineering @ UC Santa Cruz** · open to internships & freel
 
 ### shipped
 
+**[BidPilot](https://trybidpilot.com)** — pre-launch  
+Pre-qualification SaaS for residential painting contractors. I co-founded a painting company, watched contractors waste thousands driving to estimates that didn't close, and started building the fix. Homeowners answer budget and scope questions before booking an estimate — only serious leads reach the contractor. Currently validating with real contractors. Waitlist open at trybidpilot.com.
+
 **[Cogni](https://github.com/arshawnarbabi/Cogni)** &nbsp;·&nbsp; [trycogni.vercel.app](https://trycogni.vercel.app)  
 Self-hosted AI study system. Six agents handle everything from syllabus parsing to daily plan generation. FSRS spaced repetition at two levels, a Claude-powered tutor with RAG and persistent wiki memory, Google Calendar integration. Built because no study tool was actually intelligent.
 
 **[LocalNotch](https://github.com/arshawnarbabi/LocalNotch)** &nbsp;·&nbsp; [localnotch.vercel.app](https://localnotch.vercel.app)  
 On-device AI that lives in your MacBook's notch. Ollama-powered, so everything runs locally. Chat, vision, and web search with no cloud, no subscriptions, no data leaving your machine. Native Swift.
-
-**[BidPilot](https://trybidpilot.com)**  
-AI pre-qualification for residential painting contractors. I co-founded a painting company, watched contractors waste thousands driving to estimates that didn't close, and built the fix. Homeowners see a realistic price range before they book. Only serious leads come through. The outreach side runs on a multi-agent pipeline dispatched via Telegram.
 
 ---
 
