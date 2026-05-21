@@ -2,7 +2,7 @@
 
 I build AI systems, some to solve real problems, some just because they should exist.
 
-I've never taken a CS class. Everything here was built through obsession, AI tools, and a design philosophy borrowed from Apple: design isn't decoration, it's function.
+Built my first business at 14. Everything since comes from the same place — obsession, AI tools, and a design philosophy borrowed from Apple: design isn't decoration, it's function.
 
 Incoming **Computer Engineering @ UC Santa Cruz** · open to internships & freelance
 
@@ -10,13 +10,13 @@ Incoming **Computer Engineering @ UC Santa Cruz** · open to internships & freel
 
 ### shipped
 
-**[Cogni](https://github.com/arshawnarbabi/Cogni)** &nbsp;·&nbsp; [trycogni.vercel.app](https://trycogni.vercel.app)
+**[Cogni](https://github.com/arshawnarbabi/Cogni)** &nbsp;·&nbsp; [trycogni.vercel.app](https://trycogni.vercel.app)  
 Self-hosted AI study system. Six specialized agents handle everything from syllabus parsing to daily plan generation. FSRS spaced repetition at two levels, a Claude-powered tutor with RAG and persistent wiki memory, and Google Calendar integration. Built because no study tool was actually intelligent.
 
-**[LocalNotch](https://github.com/arshawnarbabi/LocalNotch)** &nbsp;·&nbsp; [localnotch.vercel.app](https://localnotch.vercel.app)
+**[LocalNotch](https://github.com/arshawnarbabi/LocalNotch)** &nbsp;·&nbsp; [localnotch.vercel.app](https://localnotch.vercel.app)  
 On-device AI assistant that lives in your MacBook's notch. Powered by Ollama — chat, vision, and web search, all on your machine. No cloud, no subscriptions, no data leaving your device. Native Swift.
 
-**[BidPilot](https://trybidpilot.com)**
+**[BidPilot](https://trybidpilot.com)**  
 AI pre-qualification for residential painting contractors. Co-founded a painting company, watched contractors waste thousands driving to estimates that never converted, built the fix. Homeowners confirm their budget upfront — only aligned leads get through. Backed by an autonomous agent pipeline coordinated by an orchestrator and dispatched via Telegram.
 
 ---
