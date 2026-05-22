@@ -1,6 +1,6 @@
 <p align="center"><img src="./arshawnarbabi_readme_banner.gif" alt="arshawn banner" width="100%" /></p>
 
-## hi, i'm arshawn
+## Hi, I'm Arshawn
 
 I build AI systems. Some to solve real problems, some just because they should exist.
 
@@ -10,7 +10,7 @@ Incoming **Computer Engineering @ UC Santa Cruz** · open to internships & freel
 
 ---
 
-### shipped
+### Shipped
 
 **[BidPilot](https://trybidpilot.com)** · pre-launch  
 Pre-qualification SaaS for residential painting contractors. I co-founded a painting company, watched contractors waste thousands driving to estimates that didn't close, and started building the fix. Homeowners answer budget and scope questions before booking. Only serious leads reach the contractor. Currently validating with real contractors. Waitlist open at trybidpilot.com.
@@ -23,7 +23,7 @@ On-device AI that lives in your MacBook's notch. Ollama-powered, so everything r
 
 ---
 
-### how i work
+### How I Work
 
 `AI Systems` &nbsp;`Multi-agent Pipelines` &nbsp;`Prompt Engineering` &nbsp;`UI/UX & Product Design` &nbsp;`Next.js` &nbsp;`Supabase` &nbsp;`Swift` &nbsp;`Rapid Prototyping`
 
