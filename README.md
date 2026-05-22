@@ -29,7 +29,7 @@ On-device AI that lives in your MacBook's notch. Ollama-powered, so everything r
 
 ---
 
-### currently
+### Currently
 
 Running BidPilot outreach and getting contractors through the door.
 
