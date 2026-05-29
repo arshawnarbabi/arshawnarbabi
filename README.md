@@ -21,6 +21,9 @@ Self-hosted AI study system. Six agents handle everything from syllabus parsing 
 **[LocalNotch](https://github.com/arshawnarbabi/LocalNotch)** &nbsp;·&nbsp; [localnotch.vercel.app](https://localnotch.vercel.app)  
 On-device AI that lives in your MacBook's notch. Ollama-powered, so everything runs locally. Chat, vision, and web search with no cloud, no subscriptions, no data leaving your machine. Native Swift.
 
+**[premium-website-templates](https://github.com/arshawnarbabi/premium-website-templates)** &nbsp;·&nbsp; v1.1  
+Open-source design system templates that let AI tools build premium-grade websites from a single source of truth. Six files, ~4,000 lines of design research distilled into operational rules for web and mobile. Built it because AI defaults to generic SaaS output without a strong anchor — this is that anchor. MIT, free.
+
 ---
 
 ### How I Work
