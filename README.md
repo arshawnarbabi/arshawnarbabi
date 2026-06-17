@@ -12,17 +12,17 @@ Incoming **Computer Engineering @ UC Santa Cruz** · open to internships & freel
 
 ### Shipped
 
-**[BidPilot](https://trybidpilot.com)** · pre-launch  
-Pre-qualification SaaS for residential painting contractors. I co-founded a painting company, watched contractors waste thousands driving to estimates that didn't close, and started building the fix. Homeowners answer budget and scope questions before booking. Only serious leads reach the contractor. Currently validating with real contractors. Waitlist open at trybidpilot.com.
+**[LocalNotch](https://github.com/arshawnarbabi/LocalNotch)** &nbsp;·&nbsp; [localnotch.arshawnarbabi.com](https://localnotch.arshawnarbabi.com)  
+On-device AI that lives in your MacBook's notch. It runs on Ollama, so chat and vision stay fully local with no cloud, no subscriptions, no data leaving your machine. Web search is optional and outbound through your own Brave key when you want it. v0.2 adds a beta Agent Mode that can act on your files. Native Swift, MIT.
 
-**[Cogni](https://github.com/arshawnarbabi/Cogni)** &nbsp;·&nbsp; [trycogni.vercel.app](https://trycogni.vercel.app)  
-Self-hosted AI study system. Six agents handle everything from syllabus parsing to daily plan generation. FSRS spaced repetition at two levels, a Claude-powered tutor with RAG and persistent wiki memory, Google Calendar integration. Built because no study tool was actually intelligent.
+**[Cogni](https://github.com/arshawnarbabi/Cogni)** &nbsp;·&nbsp; [trycogni.arshawnarbabi.com](https://trycogni.arshawnarbabi.com)  
+Self-hosted AI study system. A multi-agent pipeline handles everything from syllabus parsing to daily plan generation. FSRS spaced repetition at two levels, a Claude-powered tutor with RAG and persistent memory, Google Calendar integration. Built because no study tool was actually intelligent.
 
-**[LocalNotch](https://github.com/arshawnarbabi/LocalNotch)** &nbsp;·&nbsp; [localnotch.vercel.app](https://localnotch.vercel.app)  
-On-device AI that lives in your MacBook's notch. Ollama-powered, so everything runs locally. Chat, vision, and web search with no cloud, no subscriptions, no data leaving your machine. Native Swift.
+**[premium.md](https://github.com/arshawnarbabi/premium.md)** &nbsp;·&nbsp; [premium-md.arshawnarbabi.com](https://premium-md.arshawnarbabi.com) &nbsp;·&nbsp; v1.21.0  
+Open-source markdown templates that turn any AI agent into a reliable premium-grade product builder. It covers brand, content, design (web + mobile), SEO, and a self-run QA gate from one source of truth. Ten files, around 4,000 lines of product research, plus an OKLCH palette generator. Built it because AI drifts to generic SaaS output without a strong anchor, and this is that anchor. Installs into Claude Code, Cursor, and Codex via one command. MIT, free.
 
-**[premium.md](https://github.com/arshawnarbabi/premium.md)** &nbsp;·&nbsp; [premium.md ↗](https://premium-md.arshawnarbabi.com) &nbsp;·&nbsp; v1.21.0  
-Open-source markdown templates that turn any AI agent into a reliable premium-grade product builder — brand, content, copy, design (web + mobile), SEO, and a self-run QA gate from one source of truth. Ten files, ~4,000 lines of research distilled into ~8,500 lines of operational rules, plus an OKLCH palette generator. Built it because AI drifts to generic SaaS output without a strong anchor — this is that anchor. Installs into Claude Code, Cursor, and Codex via one command. MIT, free.
+**[Halo](https://github.com/arshawnarbabi/Halo)**  
+A Liquid Glass replacement for macOS's Command-Tab. A ring of your open apps blooms around your cursor with live window previews. macOS 26 (Tahoe), Apple Silicon. Native Swift, MIT.
 
 ---
 
@@ -34,7 +34,7 @@ Open-source markdown templates that turn any AI agent into a reliable premium-gr
 
 ### Currently
 
-Running BidPilot outreach and getting contractors through the door.
+Building LocalNotch and Cogni.
 
 ---
 
