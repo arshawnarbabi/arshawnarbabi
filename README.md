@@ -10,8 +10,8 @@ I build most of my software by directing AI coding agents. I decide what a proje
 
 ### Now
 
-**Education Hub** (April 2026 to now)  
-The AI system I built to manage my entire school life. Agents read my Canvas, email, class recordings, notes and homework, then file every deadline and send a brief to my phone each morning. It tutors me under rules from a learning science review I had agents compile and fact-check, schedules my reviews with FSRS and checks each tutoring reply before I see it. It's an evolution of [Cogni](https://github.com/arshawnarbabi/Cogni), the open-source AI study app I built first, which I replaced after auditing it against how I actually studied.
+**[Education Hub](https://github.com/arshawnarbabi/education-hub)** (April 2026 to now)  
+The AI system I built to manage my entire school life. Agents read my Canvas, email, class recordings, notes and homework, then file every deadline and send a brief to my phone each morning. It tutors me under rules from a learning science review I had agents compile and fact-check, schedules my reviews with FSRS and checks each tutoring reply before I see it. It's an evolution of [Cogni](https://github.com/arshawnarbabi/Cogni), the open-source AI study app I built first, which I replaced after auditing it against how I actually studied. The linked repo is a cut-down public version with a demo you can run.
 
 **[premium.md](https://github.com/arshawnarbabi/premium.md)** (May 2026 to now)  
 Markdown templates that give an AI coding agent the brand, design, content, SEO and QA decisions it needs to build a polished product, plus an OKLCH palette generator.
